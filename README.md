@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyal Prajapati</h1>
 <h3 align="center">IT Engineering Student | Passionate About Technology and Learning</h3>
-<img align="right" alt="coding" width="400" src="https://hamna.dev/static/media/about.4f48d797b62491663893.gif">
+<img align="right" alt="coding" width="300" src="https://hamna.dev/static/media/about.4f48d797b62491663893.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="priyalprajapati" /> </p>
 
 - 📫 How to reach me **priyalprajapati811@gmail.com**
